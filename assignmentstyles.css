@@ -33,23 +33,12 @@ a.navbar-brand  img {
 .container-footer{
     background-color: lightsteelblue;
 }
-.trends{
-    color: rgb(41, 40, 36);
-    font-size: 16pt;
-    font: menu;
-}
 .card-title{
     color: rgb(21, 21, 121);
     font-size: 10pt;
-    
-
-    }
+        }
 .keytrendssection{
     background-color: rgb(231, 230, 225);
-}
-.card-header img{
-    width: 150px;
-    height: 100px;
 }
 
 .jumbotron-index{
