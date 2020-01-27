@@ -24,12 +24,6 @@ a.navbar-brand  img {
     color-adjust: exact;
 }
 
-.first {
-
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-}
 .container-footer{
     background-color: lightsteelblue;
 }
